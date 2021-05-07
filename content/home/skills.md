@@ -21,13 +21,21 @@ feature:
   icon_pack: fab
   name: Python
 - description:
+  icon: chart-area
+  icon_pack: fab
+  name: Matlab
+- description:
   icon: chart-line
   icon_pack: fas
   name: Statistics
 - description: 
-  icon: alien-monster
+  icon: robot
   icon_pack: fas
   name: Machine-learning
+- description: polish, english, italian
+  icon: comments
+  icon_pack: fas
+  name: Languages
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
