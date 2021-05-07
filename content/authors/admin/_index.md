@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Maria Ferlin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Gdansk University of Technology
+  url: https://pg.edu.pl/en/main-page
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -19,21 +19,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Technological progress
+- Medicine
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+    year: 2020-
+  - course: MEng in Applied Control Engineering and Robotics
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2018-2019
+  - course: BSc in Control Engineering and Robotics
+    institution: Warsaw University of Technology
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
