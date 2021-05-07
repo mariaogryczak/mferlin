@@ -26,8 +26,8 @@ experience:
     company: SolDevelo Sp. z o.o.
     company_url: ''
     location: Gdańsk
-    date_start: '2019-06'
-    date_end: '2020-02'
+    date_start: '2019-06-01'
+    date_end: '2020-02-15'
     description: |2-
         Responsibilities include:
         
@@ -39,23 +39,23 @@ experience:
     company: Elfeko S.A.
     company_url: ''
     location: Gdynia
-    date_start: '2017-07'
-    date_end: '2017-09'
+    date_start: '2017-07-01'
+    date_end: '2017-09-30'
     description: 
     
   - title: Project Assistant
     company: Institute of Power Engineering 
     company_url: ''
     location: Gdańsk
-    date_start: '2016-07'
-    date_end: '2016-09'
+    date_start: '2016-07-01'
+    date_end: '2016-09-30'
     description: 
     
   - title: Project Assistant
     company: Institute of Power Engineering 
     company_url: ''
     location: Gdańsk
-    date_start: '2015-07'
-    date_end: '2015-09'
+    date_start: '2015-07-01'
+    date_end: '2015-09-30'
     description: 
 ---
