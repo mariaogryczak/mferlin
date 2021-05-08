@@ -22,7 +22,7 @@ feature:
   name: Python
 - description:
   icon: wave-square
-  icon_pack: fab
+  icon_pack: fas
   name: Matlab
 - description:
   icon: chart-line
