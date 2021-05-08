@@ -2,18 +2,19 @@
 title: Detect waste
 summary: Non-profit, educational project for detecting waste in environment
 tags:
-- Deep Learning
+- Machine Learning
+- Waste
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://detectwaste.ml/about/"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
+https://github.com/wimlds-trojmiasto/detect-waste
 links:
-url_code: "https://detectwaste.ml/about/"
+url_code: "https://github.com/wimlds-trojmiasto/detect-waste"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -23,7 +24,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Detect waste is a non-profit, educational, eco project that aims to use Artificial Intelligence for the general good. We have gathered a team of ten carefully selected members and five mentors to work together on the problem of the world’s waste pollution.
