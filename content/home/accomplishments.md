@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.britishcouncil.pl/egzaminy/cambridge/poziom/advanced
   date_end: ""
-  date_start: "2013"
+  date_start: ""
   description: ""
   organization: British Council
   organization_url: https://www.britishcouncil.pl/egzaminy/cambridge/poziom/advanced
