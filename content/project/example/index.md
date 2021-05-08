@@ -12,7 +12,7 @@ external_link: "https://detectwaste.ml/about/"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-https://github.com/wimlds-trojmiasto/detect-waste
+
 links:
 url_code: "https://github.com/wimlds-trojmiasto/detect-waste"
 url_pdf: ""
