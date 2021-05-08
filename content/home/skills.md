@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: chart-area
+  icon: calculator
   icon_pack: fab
   name: Matlab
 - description:
