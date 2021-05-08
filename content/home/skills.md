@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: calculator
+  icon: wave-square
   icon_pack: fab
   name: Matlab
 - description:
