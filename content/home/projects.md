@@ -3,6 +3,11 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
+
+design:
+  backgroud:
+    color: "#FFF0F5"
+    
 # This file represents a page section.
 headless: true
 
