@@ -27,18 +27,7 @@ publication_types: ["1"]
 publication: Zeszyty Naukowe Wydziału Elektrotechniki i Automatyki Politechniki Gdańskiej
 publication_short: 
 
-abstract: Automation and improvement of diagnostic process is a vital element of medicine development and patient’s condition 
-self-control. For a long time different ECG signal classification methods exist and are successfully applied, nevertheless their 
-accuracy is not always satisfying enough. The lack of identification of an existing abnormality, which is very similar to a 
-normal heartbeat is the biggest issue - for example premature ventricular contraction. Over the past few years there was a 
-rapid development of an artificial intelligence tool - deep neural networks. They characterise by a high classification ability 
-even the most complicated patterns in the form of time series or images, often based on features unnoticeable for human eye. 
-In this paper the approach to electrocardiography (ECG) analysis was presented, taking into consideration a single heartbeat. 
-The aim of this research was diagnosis of six different types of beat that may indicate arrhythmia occurrence. The study were 
-performed on the public database MIT-BIH Arrhythmia Database. In order to enhance feature extraction quality of the 
-analysed signal the time-space decomposition was made using wavelet transform. The satisfying performance with 92.4% 
-accuracy and 96.5% specificity were accomplished. The achieved results may be used to develop an automatic heartbeat 
-classification system that would significantly contribute medicians in the arduous process of data analysis.
+abstract: Automation and improvement of diagnostic process is a vital element of medicine development and patient’s condition self-control. For a long time different ECG signal classification methods exist and are successfully applied, nevertheless their accuracy is not always satisfying enough. The lack of identification of an existing abnormality, which is very similar to a normal heartbeat is the biggest issue - for example premature ventricular contraction. Over the past few years there was a rapid development of an artificial intelligence tool - deep neural networks. They characterise by a high classification ability even the most complicated patterns in the form of time series or images, often based on features unnoticeable for human eye. In this paper the approach to electrocardiography (ECG) analysis was presented, taking into consideration a single heartbeat. The aim of this research was diagnosis of six different types of beat that may indicate arrhythmia occurrence. The study were performed on the public database MIT-BIH Arrhythmia Database. In order to enhance feature extraction quality of the analysed signal the time-space decomposition was made using wavelet transform. The satisfying performance with 92.4% accuracy and 96.5% specificity were accomplished. The achieved results may be used to develop an automatic heartbeat classification system that would significantly contribute medicians in the arduous process of data analysis.
 
 # Summary. An optional shortened abstract.
 summary: 
