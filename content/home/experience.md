@@ -9,10 +9,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-design:
-  backgroud:
-    color: "#FFF0F5"
-
 title: Experience
 subtitle:
 
@@ -56,5 +52,10 @@ experience:
     location: Gdańsk
     date_start: '2015-07-01'
     date_end: '2015-09-30'
-    description: 
+    description:
+
+design:
+  backgroud:
+    color: "#FFF0F5"
+    
 ---
