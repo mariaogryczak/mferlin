@@ -8,8 +8,7 @@ active: true
 
 design:
   background:
-    gradient_end:"#3300CC"
-    gradient_start:"#D41B56"
+    color: "#FAFAE7"
 
 # This file represents a page section.
 headless: true
