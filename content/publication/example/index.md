@@ -37,7 +37,7 @@ tags: [EKG, arrhythmia, convolutional neural networks, deep learning]
 # Display this page in the Featured widget?
 featured: true
 
-Custom links (uncomment lines below)
+# Custom links (uncomment lines below)
 links:
 - name: Custom Link
   url: https://eia.pg.edu.pl/documents/10623/32925502/ZN_WEiAPG_71.pdf
