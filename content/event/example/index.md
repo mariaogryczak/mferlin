@@ -12,8 +12,8 @@ address:
   postcode: 
   country: 
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A brief summary of "Waste detection in Pomerania" project.
+abstract: "Did you know that we produce 300 million tons of plastic every year? And only part of it is properly recycled. The idea of Plastic object detection project is to use Artificial Intelligence to detect plastic waste in the environment. Our solution is applicable for video and photography. Our goal is to use AI for Good. The talk will briefly introduce the results of work of 9 women behind the 5-month educational project detectwaste.ml - “Waste detection in Pomerania”. By the end you will know what was our motivation and how we managed to handle the problem. You will know what datasets we used (and there was many...) and how good our solution is. I hope that after this talk you will say 'It is a problem worth consideration'."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides = ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
