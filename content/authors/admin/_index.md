@@ -70,4 +70,4 @@ highlight_name: false
 
 A machine learning enthusiast who believes that technological progress might be used to help people, not only to entertain them. On a daily basis she is conducting research as a PhD student at Gdansk University of Technology. Her main field of interest is machine learning in medicine. To broaden her horizons she participated in the Detect Waste in Pomerania project and joined the WiMLDS organization.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
