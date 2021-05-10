@@ -24,6 +24,8 @@ design:
     image_position: center
     image_size: cover
     text_color_light: false
+    gradient_end: '#D41B56'
+    gradient_start: '#3300CC'
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
