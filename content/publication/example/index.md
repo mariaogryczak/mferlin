@@ -1,20 +1,18 @@
 ---
-title: "An example conference paper"
+title: "ECG signal classification using convolutional neural networks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.32016/1.71.08"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -26,15 +24,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Zeszyty Naukowe Wydziału Elektrotechniki i Automatyki Politechniki Gdańskiej
+publication_short: 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Automation and improvement of diagnostic process is a vital element of medicine development and patient’s condition 
+self-control. For a long time different ECG signal classification methods exist and are successfully applied, nevertheless their 
+accuracy is not always satisfying enough. The lack of identification of an existing abnormality, which is very similar to a 
+normal heartbeat is the biggest issue - for example premature ventricular contraction. Over the past few years there was a 
+rapid development of an artificial intelligence tool - deep neural networks. They characterise by a high classification ability 
+even the most complicated patterns in the form of time series or images, often based on features unnoticeable for human eye. 
+In this paper the approach to electrocardiography (ECG) analysis was presented, taking into consideration a single heartbeat. 
+The aim of this research was diagnosis of six different types of beat that may indicate arrhythmia occurrence. The study were 
+performed on the public database MIT-BIH Arrhythmia Database. In order to enhance feature extraction quality of the 
+analysed signal the time-space decomposition was made using wavelet transform. The satisfying performance with 92.4% 
+accuracy and 96.5% specificity were accomplished. The achieved results may be used to develop an automatic heartbeat 
+classification system that would significantly contribute medicians in the arduous process of data analysis.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
-tags: []
+tags: [EKG, arrhythmia, convolutional neural networks, deep learning]
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://eia.pg.edu.pl/documents/10623/32925502/ZN_WEiAPG_71.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
