@@ -8,7 +8,7 @@ active: true
 
 design:
   background:
-    color: "#FAFAE7"
+    color: "	#DBB0EF"
 
 # This file represents a page section.
 headless: true
