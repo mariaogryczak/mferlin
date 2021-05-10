@@ -39,7 +39,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-  url_pdf: 'https://eia.pg.edu.pl/documents/10623/32925502/ZN_WEiAPG_71.pdf'
+url_pdf: 'https://eia.pg.edu.pl/documents/10623/32925502/ZN_WEiAPG_71.pdf'
 
 
 # Featured image
