@@ -28,12 +28,7 @@ experience:
     location: Gdańsk
     date_start: '2019-06-01'
     date_end: '2020-02-15'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 
         
   - title: Project Assistant
     company: Elfeko S.A.
