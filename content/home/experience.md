@@ -9,6 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
+design:
+  backgroud:
+    color: "#FFF0F5"
+
 title: Experience
 subtitle:
 
