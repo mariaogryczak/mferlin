@@ -6,9 +6,6 @@ widget: about
 # Activate this widget? true/false
 active: true
 
-design:
-  background:
-    color: "#FFF0F5"
 
 # This file represents a page section.
 headless: true
