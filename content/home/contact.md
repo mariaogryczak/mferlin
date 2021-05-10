@@ -3,6 +3,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
+
+design:
+  backgroud:
+    color: "#FFF0F5"
+    
 # This file represents a page section.
 headless: true
 
