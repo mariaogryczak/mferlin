@@ -11,7 +11,7 @@ authors:
 author_notes:
 - ""
 
-date: "2020-05-01T00:00:00Z"
+date: "2021-09-09T00:00:00Z"
 doi: "10.3390/electronics10182208"
 
 # Schedule page publish date (NOT publication's date).
