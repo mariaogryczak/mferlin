@@ -47,7 +47,7 @@ item:
   organization_url: http://wimlds.org/
   title: Machine Learning Researcher
 item:
-  - certificate_url: https://www.sciencedirect.com/
+- certificate_url: https://www.sciencedirect.com/
   date_end: ""
   date_start: "2021-04-12"
   description: ""
@@ -55,7 +55,7 @@ item:
   organization_url: https://www.sciencedirect.com/
   title: How to write a research paper?
 item:  
-  - certificate_url: https://www.sciencedirect.com/
+- certificate_url: https://www.sciencedirect.com/
   date_end: ""
   date_start: "2021-04-19"
   description: ""
