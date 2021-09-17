@@ -24,7 +24,7 @@ publishDate: "2021-09-09T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Electronics - Special Issue: Machine Learning in Electronic and Biomedical Engineering
+publication: "Electronics - Special Issue: Machine Learning in Electronic and Biomedical Engineering"
 publication_short: 
 
 abstract: Machine learning-based systems are gaining interest in the field of medicine, mostly in medical imaging and diagnosis. In this paper, we address the problem of automatic cerebral microbleeds (CMB) detection in magnetic resonance images. It is challenging due to difficulty in distinguishing a true CMB from its mimics, however, if successfully solved, it would streamline the radiologists work. To deal with this complex three-dimensional problem, we propose a machine learning approach based on a 2D Faster RCNN network. We aimed to achieve a reliable system, i.e., with balanced sensitivity and precision. Therefore, we have researched and analysed, among others, impact of the way the training data are provided to the system, their pre-processing, the choice of model and its structure, and also the ways of regularisation. Furthermore, we also carefully analysed the network predictions and proposed an algorithm for its post-processing. The proposed approach enabled for obtaining high precision (89.74%), sensitivity (92.62%), and F1 score (90.84%). The paper presents the main challenges connected with automatic cerebral microbleeds detection, its deep analysis and developed system. The conducted research may significantly contribute to automatic medical diagnosis.
