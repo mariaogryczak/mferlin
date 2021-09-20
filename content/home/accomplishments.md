@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 50
@@ -37,7 +37,6 @@ item:
   organization: Integrated Development Programme of the Gdansk University of Technology
   organization_url: https://mostwiedzy.pl/en/project/zintegrowany-program-rozwoju-politechniki-gdanskiej,570-1
   title: Publication of research results in specialized journals
-item:
 - certificate_url: https://detectwaste.ml/
   date_end: "2021-02-28"
   date_start: "2020-10-01"
@@ -45,7 +44,6 @@ item:
   organization: Women in Machine Learning & Data Science
   organization_url: http://wimlds.org/
   title: Machine Learning Researcher
-item:
 - certificate_url: https://www.sciencedirect.com/
   date_end: ""
   date_start: "2021-04-12"
@@ -53,7 +51,6 @@ item:
   organization: Elsevier
   organization_url: https://www.sciencedirect.com/
   title: How to write a research paper?
-item:  
 - certificate_url: https://www.sciencedirect.com/
   date_end: ""
   date_start: "2021-04-19"
@@ -61,7 +58,6 @@ item:
   organization: Elsevier
   organization_url: https://www.sciencedirect.com/
   title: Choosing a journal wisely
-item:  
 - certificate_url: https://www.sciencedirect.com/
   date_end: ""
   date_start: "2021-04-26"
@@ -69,7 +65,6 @@ item:
   organization: Elsevier
   organization_url: https://www.sciencedirect.com/
   title: Scientific Review Process
-item:  
 - certificate_url: https://2021.dl-lab.eu/
   date_end: "2021-07-09"
   date_start: "2021-07-05"
