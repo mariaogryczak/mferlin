@@ -30,7 +30,6 @@ item:
   organization: British Council
   organization_url: https://www.britishcouncil.pl/egzaminy/cambridge/poziom/advanced
   title: Certificate in Advanced English
-item:
 - certificate_url: https://mostwiedzy.pl/en/project/zintegrowany-program-rozwoju-politechniki-gdanskiej,570-1
   date_end: "2020-12-04"
   date_start: "2020-11-20"
